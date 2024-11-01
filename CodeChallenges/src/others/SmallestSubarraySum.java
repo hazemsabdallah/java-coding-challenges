@@ -1,3 +1,5 @@
+package others;
+
 public class SmallestSubarraySum {
     /*
     Given an array arr[] of integers and a number x,
