@@ -3,7 +3,7 @@ package leetcode;
 /**
  * LeetCode:
  * 55. Jump Game
- * <a href='https://leetcode.com/problems/jump-game/description/'>
+ * <a href='https://leetcode.com/problems/jump-game-ii/description/'>
  */
 public class JumpGameII {
 
